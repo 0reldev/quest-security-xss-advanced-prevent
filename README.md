@@ -1,4 +1,4 @@
-# Quest "3.4[Advanced] XSS Atttack: Prevent"
+# Quest "3.4[Advanced] XSS Attack: Prevent"
 
 ## Educational exercice from Wild Code School
 
